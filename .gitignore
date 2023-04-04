@@ -1,0 +1,11 @@
+*.xml
+*.pyc
+.idea/workspace.xml
+
+venv/
+*.log
+*.out
+.idea/
+.DS_Store
+
+
